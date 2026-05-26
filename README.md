@@ -1,8 +1,8 @@
-📊 Netflix Power BI Dashboard
+##📊 Netflix Power BI Dashboard
 📌 Overview
 This Power BI dashboard provides an interactive analysis of Netflix’s catalog of movies and TV shows. It highlights trends in content release, distribution by country, ratings, and genre composition. The goal is to help users explore Netflix’s global library and identify patterns in content production and availability.
 
-🎯 Key Features
+##🎯 Key Features
 Content by Year
 
 Visualizes the number of movies and TV shows released across different years.
@@ -33,7 +33,7 @@ Breakdown of genres such as Dramas, Comedies, Documentaries, Action & Adventure,
 
 Helps identify Netflix’s strongest content categories.
 
-📂 Data Sources
+##📂 Data Sources
 Netflix dataset containing metadata such as:
 
 Release Year
@@ -48,7 +48,7 @@ Genre/Category
 
 Duration
 
-🖥️ Dashboard Navigation
+##🖥️ Dashboard Navigation
 Yearly Trends → Explore how Netflix’s catalog has expanded over time.
 
 Movies vs. TV Shows → Compare proportions and growth of each type.
@@ -59,14 +59,14 @@ Ratings Distribution → Analyze maturity ratings across the catalog.
 
 Genre Breakdown → Dive into specific categories and their share of total content.
 
-🚀 Usage
+##🚀 Usage
 Use filters and slicers to narrow down by year, country, rating, or genre.
 
 Hover over visuals for detailed tooltips.
 
 Combine filters (e.g., “TV Shows in Asia rated TV-14”) to uncover deeper insights.
 
-📈 Insights You Can Derive
+##📈 Insights You Can Derive
 Growth trajectory of Netflix’s catalog since the 1940s.
 
 Regional dominance in content production (e.g., US, UK, India, Japan, South Korea).
